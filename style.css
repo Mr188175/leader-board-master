@@ -1,0 +1,17 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+/* Navbar style start */
+
+
+nav img {
+    width: 40px;
+}
+
+.navbar-nav > a{
+    margin-left:30px;
+    
+  }
+
+/* Navbar style end */
