@@ -12,6 +12,9 @@ nav img {
 .navbar-nav > a{
     margin-left:30px;
     
-  }
+}
 
+#anchor-color a {
+    color: #fff;
+}
 /* Navbar style end */
